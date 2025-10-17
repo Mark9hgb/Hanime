@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-  "start": "node src/server.js"
-  }
+    "start": "vercel dev"
+  },
   "dependencies": {
     "cloudinary": "^1.32.0",
     "lowdb": "^6.0.1",
