@@ -1,0 +1,17 @@
+{
+  "name": "anime-streaming-vercel-final",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "cloudinary": "^1.32.0",
+    "lowdb": "^6.0.1",
+    "nanoid": "^4.0.0",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.0",
+    "formidable": "^3.5.0",
+    "streamifier": "^0.1.1"
+  }
+}
